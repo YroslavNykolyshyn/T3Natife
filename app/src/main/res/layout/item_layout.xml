@@ -7,5 +7,7 @@
         android:id="@+id/gifItem"
         android:layout_width="300dp"
         android:layout_height="300dp"
-        android:src="@mipmap/ic_launcher"/>
+        android:layout_margin="5dp"
+        android:src="@mipmap/ic_launcher"
+        />
 </RelativeLayout>
